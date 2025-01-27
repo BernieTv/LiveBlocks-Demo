@@ -1,17 +1,17 @@
 <div align="center">
 
   <img src="https://github.com/user-attachments/assets/0e06a37a-1588-4210-ac8a-aa38204a81e6" alt="logo" width="250" height="auto" />
-  
-# Miro Clone With Nextjs 
-  
+
+  # Miro Clone with Next.js 🚀
+
   <p>
-Real-Time Miro Clone With Nextjs, React, Tailwind
+    Real-Time Miro Clone built using Next.js, React, and Tailwind CSS 🎨
   </p>
 </div>
 
-<!-- Table of Contents -->
+---
 
-## :notebook_with_decorative_cover: Table of Contents
+## 📖 Table of Contents
 
 - [About the Project](#star2-about-the-project)
   - [Screenshots](#camera-screenshots)
@@ -23,238 +23,123 @@ Real-Time Miro Clone With Nextjs, React, Tailwind
   - [Run Locally](#running-run-locally)
   - [Deployment](#triangular_flag_on_post-deployment)
 
-<!-- About the Project -->
+---
 
-## :star2: About the Project
+## ⭐ About the Project
 
-<!-- Screenshots -->
+A feature-rich real-time Miro clone built with modern web technologies like Next.js, React, and Tailwind CSS. This project showcases collaborative functionalities, responsive design, and a seamless user experience. 💻✨
 
-### :camera: Screenshots
+---
+
+### 📸 Screenshots
 
 <div align="center">
-<a href="https://miro-clone-jade.vercel.app"><img  src='https://github.com/user-attachments/assets/cf8878b3-2178-494c-9c07-959f1639a4d2' alt='image'/></a>
+<a href="https://miro-clone-jade.vercel.app"><img src='https://github.com/user-attachments/assets/cf8878b3-2178-494c-9c07-959f1639a4d2' alt='image' /></a>
 </div>
 
 <br />
 
 <div align="center">
-<a href="https://miro-clone-jade.vercel.app"><img  src='https://github.com/user-attachments/assets/8fdb667e-89ce-4f07-9aae-54ee4248b14b' alt='image'/></a>
+<a href="https://miro-clone-jade.vercel.app"><img src='https://github.com/user-attachments/assets/8fdb667e-89ce-4f07-9aae-54ee4248b14b' alt='image' /></a>
 </div>
 
-## <a href="https://miro-clone-jade.vercel.app" target="_blank">LIVE DEMO 💥</a>
+---
+
+## 🌟 [LIVE DEMO](https://miro-clone-jade.vercel.app) 💥
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
-### :space_invader: Tech Stack
+---
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://#/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-    <li><a href="https://www.prisma.io">Prisma</a></li>
-  </ul>
-</details>
+### 🛠️ Tech Stack
 
-<details>
-<summary>Database</summary>
-  <ul>
-  <li><a href="https://firebase.google.com">Mongodb</a></li>
-  <li><a href="https://cloudinary.com/">Cloudinary</a></li>
-  </ul>
-</details>
+#### Client
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
+- [React.js](https://reactjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Prisma](https://www.prisma.io)
 
-<br />
+#### Database
+- [MongoDB](https://www.mongodb.com)
+- [Cloudinary](https://cloudinary.com/)
 
 <table>
-    <tr>
-        <td>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="30" height="30" /></a>
-        </td>
-                <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/99184393/183096870-fdf58e59-d78c-44f4-bd1c-f9033c16d907.png" alt="Google" width="30" height="30" /></a>
-        </td>
-                        <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/99184393/179383376-874f547c-4e6f-4826-850e-706b009e7e2b.png" alt="" width="30" height="30" /></a>
-        </td>
-                              <td>
-<a href="#"><img src="https://github.com/user-attachments/assets/de9b3fe9-d525-4241-b90a-8b597e6af5cb" alt="" width="30" height="30" /></a>
-        </td>
-                        <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="" width="30" height="30" /></a>
-        </td>
-                                <td>
-<a href="#"><img src="https://github.com/user-attachments/assets/0e06a37a-1588-4210-ac8a-aa38204a81e6" alt="" width="30"height="30"/></a>
-        </td>
-                                      <td>
-<a href="#"><img src="https://github.com/user-attachments/assets/2498198d-6272-4aef-9812-39c9df37acd7" alt="" width="30"height="30"/></a>
-        </td>
-      <td>
-<a href="#"><img src="https://github.com/user-attachments/assets/d24e0437-5919-4fc0-b0b5-4b15b8e7768e" alt="" width="30"height="30"/></a>
-        </td>
-    </tr>
+<tr>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30" /></td>
+  <td><img src="https://user-images.githubusercontent.com/99184393/183096870-fdf58e59-d78c-44f4-bd1c-f9033c16d907.png" alt="Google" width="30" height="30" /></td>
+  <td><img src="https://user-images.githubusercontent.com/99184393/179383376-874f547c-4e6f-4826-850e-706b009e7e2b.png" alt="TailwindCSS" width="30" height="30" /></td>
+  <td><img src="https://github.com/user-attachments/assets/de9b3fe9-d525-4241-b90a-8b597e6af5cb" alt="MongoDB" width="30" height="30" /></td>
+  <td><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="Next.js" width="30" height="30" /></td>
+</tr>
 </table>
 
-## Getting Started
+---
 
-### :bangbang: Prerequisites
+## 🔧 Getting Started
 
-- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
-- Sign up for a clerk account <a href='https://clerk.com/'>HERE</a>
-- Sign up for a convex <a href='https://www.convex.dev/'>HERE</a>
-- Sign up for a liveblocks <a href='https://liveblocks.io/'>HERE</a>
+### ❗ Prerequisites
 
-<!-- Env Variables -->
+1. Install Node.js [here](https://nodejs.org/en/).
+2. Sign up for the following accounts:
+   - [Clerk](https://clerk.com/)
+   - [Convex](https://www.convex.dev/)
+   - [Liveblocks](https://liveblocks.io/)
 
-### :key: Environment Variables
+### 🔑 Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+Create a `.env` file in the root directory and add the following:
 
-`CONVEX_DEPLOYMENT`
-
-`NEXT_PUBLIC_CONVEX_URL`
-
-`NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`
-
-`CLERK_SECRET_KEY`
-
-`LIVEBLOCKS_SECRET_KEY`
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### Installation
-
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
-
-Install my-project with npm
-
-```
-npx create-next-app@latest my-project --typescript --eslint
+```plaintext
+CONVEX_DEPLOYMENT=
+NEXT_PUBLIC_CONVEX_URL=
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+LIVEBLOCKS_SECRET_KEY=
 ```
 
-```
-cd my-project
-```
+---
 
-Install dependencies
+### ⚙️ Installation
 
-### Install Tailwind CSS with Next.js
-
-#### Install Tailwind CSS
-
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-Install tailwindcss and its peer dependencies via npm, and then run the init command to generate both `tailwind.config.js` and `postcss.config.js`.
-
-```
-npm install -D tailwindcss postcss autoprefixer
-```
-
-```
-npx tailwindcss init -p
-```
-
-#### Configure your template paths
-
-Add the paths to all of your template files in your `tailwind.config.js` file.
-<br>
-
-```js
-/** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: [
-    './app/**/*.{js,ts,jsx,tsx}',
-    './pages/**/*.{js,ts,jsx,tsx}',
-    './components/**/*.{js,ts,jsx,tsx}',
-
-    // Or if using `src` directory:
-    './src/**/*.{js,ts,jsx,tsx}',
-  ],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-};
-```
-
-#### Add the Tailwind directives to your CSS
-
-Add the `@tailwind` directives for each of Tailwind’s layers to your `./styles/globals.css` file.
-
-```css
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-```
-
-<!-- Run Locally -->
-
-### :running: Run Locally
-
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-Clone the project
+1. Clone the repository:
 
 ```bash
-  https://github.com/SashenJayathilaka/Miro-Clone.git
+https://github.com/BernieTv/LiveBlocks-Demo.git
+
+cd LiveBlocks-Demo
 ```
 
-change directory
+2. Install dependencies:
 
 ```bash
-  cd Miro-Clone
+npm install
 ```
 
-Install dependencies
+3. Start the development server:
 
 ```bash
-  npm install
+npm run dev
 ```
 
-Start the server
+Open [http://localhost:3000](http://localhost:3000) to view the project locally. 🎉
 
-```bash
-  npm run dev
-```
+---
 
-<hr />
+### 🚀 Deployment
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#### Deploy on Vercel
 
-<hr />
+The easiest way to deploy your Next.js app is through [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme). Follow their [Next.js deployment documentation](https://nextjs.org/docs/deployment) for a smooth deployment process.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### 📚 Learn More
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- [Next.js Documentation](https://nextjs.org/docs) - In-depth knowledge of Next.js features.
+- [Next.js GitHub Repository](https://github.com/vercel/next.js/) - Contributions are welcome!
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Happy Coding! 🎨✨
 
-### Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-<!-- Deployment -->
-
-### :triangular_flag_on_post: Deployment
-
-To deploy this project run
-
-##### Deploy on Vercel
-
-![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
